@@ -1,0 +1,127 @@
+# Project: DragonIsland
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = win/main.o win/Image.o win/SpriteSheet.o win/Background.o win/Color.o win/Point.o win/Settings.o win/Sprite.o win/Rectangle.o win/Player.o win/Control.o win/GameFont.o win/Entity.o win/Map.o win/Level.o win/Header.o win/TileDescription.o win/Tile.o win/EntityDescription.o win/Score.o win/BlockExplosion.o win/Tileset.o win/SoundEffect.o win/EntityCollection.o win/UserInterface.o win/SaveFile.o win/Game.o win/GamePanel.o win/ScriptCommand.o win/Music.o win/Frame.o win/EditorPanel.o $(RES)
+LINKOBJ  = win/main.o win/Image.o win/SpriteSheet.o win/Background.o win/Color.o win/Point.o win/Settings.o win/Sprite.o win/Rectangle.o win/Player.o win/Control.o win/GameFont.o win/Entity.o win/Map.o win/Level.o win/Header.o win/TileDescription.o win/Tile.o win/EntityDescription.o win/Score.o win/BlockExplosion.o win/Tileset.o win/SoundEffect.o win/EntityCollection.o win/UserInterface.o win/SaveFile.o win/Game.o win/GamePanel.o win/ScriptCommand.o win/Music.o win/Frame.o win/EditorPanel.o $(RES)
+LIBS =  -L"C:/GP2XSDK/lib" -lmingw32 -liconv -lgp2x -lSDL_gfx -mwindows -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_inifile -lSDLmain -lSDL -lpng -ljpeg -lvorbisidec -lmad -lfreetype -lz -lunicodefont   
+INCS =  -I"C:/GP2XSDK/include/GP2X"  -I"C:/GP2XSDK/include/SDL"  -I"C:/GP2XSDK/include" 
+CXXINCS =  -I"C:/GP2XSDK/include/GP2X"  -I"C:/GP2XSDK/include/SDL"  -I"C:/GP2XSDK/lib/gcc/mingw32/3.4.2/include"  -I"C:/GP2XSDK/include/c++/3.4.2/backward"  -I"C:/GP2XSDK/include/c++/3.4.2/mingw32"  -I"C:/GP2XSDK/include/c++/3.4.2"  -I"C:/GP2XSDK/include" 
+BIN  = DragonIsland.exe
+CXXFLAGS = $(CXXINCS)   -DWIN32
+CFLAGS = $(INCS) -D_REENTRANT   -DWIN32
+RM = rm -f
+MKDIR = cygwin-mkdir -p
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before DragonIsland.exe all-after
+
+all-before:
+	$(MKDIR) "win"
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $@ $(LIBS)
+
+win/main.o: main.c
+	$(CPP) -c main.c -o win/main.o $(CXXFLAGS)
+
+win/Image.o: Image.cpp
+	$(CPP) -c Image.cpp -o win/Image.o $(CXXFLAGS)
+
+win/SpriteSheet.o: SpriteSheet.cpp
+	$(CPP) -c SpriteSheet.cpp -o win/SpriteSheet.o $(CXXFLAGS)
+
+win/Background.o: Background.cpp
+	$(CPP) -c Background.cpp -o win/Background.o $(CXXFLAGS)
+
+win/Color.o: Color.cpp
+	$(CPP) -c Color.cpp -o win/Color.o $(CXXFLAGS)
+
+win/Point.o: Point.cpp
+	$(CPP) -c Point.cpp -o win/Point.o $(CXXFLAGS)
+
+win/Settings.o: Settings.cpp
+	$(CPP) -c Settings.cpp -o win/Settings.o $(CXXFLAGS)
+
+win/Sprite.o: Sprite.cpp
+	$(CPP) -c Sprite.cpp -o win/Sprite.o $(CXXFLAGS)
+
+win/Rectangle.o: Rectangle.cpp
+	$(CPP) -c Rectangle.cpp -o win/Rectangle.o $(CXXFLAGS)
+
+win/Player.o: Player.cpp
+	$(CPP) -c Player.cpp -o win/Player.o $(CXXFLAGS)
+
+win/Control.o: Control.cpp
+	$(CPP) -c Control.cpp -o win/Control.o $(CXXFLAGS)
+
+win/GameFont.o: GameFont.cpp
+	$(CPP) -c GameFont.cpp -o win/GameFont.o $(CXXFLAGS)
+
+win/Entity.o: Entity.cpp
+	$(CPP) -c Entity.cpp -o win/Entity.o $(CXXFLAGS)
+
+win/Map.o: Map.cpp
+	$(CPP) -c Map.cpp -o win/Map.o $(CXXFLAGS)
+
+win/Level.o: Level.cpp
+	$(CPP) -c Level.cpp -o win/Level.o $(CXXFLAGS)
+
+win/Header.o: Header.cpp
+	$(CPP) -c Header.cpp -o win/Header.o $(CXXFLAGS)
+
+win/TileDescription.o: TileDescription.cpp
+	$(CPP) -c TileDescription.cpp -o win/TileDescription.o $(CXXFLAGS)
+
+win/Tile.o: Tile.cpp
+	$(CPP) -c Tile.cpp -o win/Tile.o $(CXXFLAGS)
+
+win/EntityDescription.o: EntityDescription.cpp
+	$(CPP) -c EntityDescription.cpp -o win/EntityDescription.o $(CXXFLAGS)
+
+win/Score.o: Score.cpp
+	$(CPP) -c Score.cpp -o win/Score.o $(CXXFLAGS)
+
+win/BlockExplosion.o: BlockExplosion.cpp
+	$(CPP) -c BlockExplosion.cpp -o win/BlockExplosion.o $(CXXFLAGS)
+
+win/Tileset.o: Tileset.cpp
+	$(CPP) -c Tileset.cpp -o win/Tileset.o $(CXXFLAGS)
+
+win/SoundEffect.o: SoundEffect.cpp
+	$(CPP) -c SoundEffect.cpp -o win/SoundEffect.o $(CXXFLAGS)
+
+win/EntityCollection.o: EntityCollection.cpp
+	$(CPP) -c EntityCollection.cpp -o win/EntityCollection.o $(CXXFLAGS)
+
+win/UserInterface.o: UserInterface.cpp
+	$(CPP) -c UserInterface.cpp -o win/UserInterface.o $(CXXFLAGS)
+
+win/SaveFile.o: SaveFile.cpp
+	$(CPP) -c SaveFile.cpp -o win/SaveFile.o $(CXXFLAGS)
+
+win/Game.o: Game.cpp
+	$(CPP) -c Game.cpp -o win/Game.o $(CXXFLAGS)
+
+win/GamePanel.o: GamePanel.cpp
+	$(CPP) -c GamePanel.cpp -o win/GamePanel.o $(CXXFLAGS)
+
+win/ScriptCommand.o: ScriptCommand.cpp
+	$(CPP) -c ScriptCommand.cpp -o win/ScriptCommand.o $(CXXFLAGS)
+
+win/Music.o: Music.cpp
+	$(CPP) -c Music.cpp -o win/Music.o $(CXXFLAGS)
+
+win/Frame.o: Frame.cpp
+	$(CPP) -c Frame.cpp -o win/Frame.o $(CXXFLAGS)
+
+win/EditorPanel.o: EditorPanel.cpp
+	$(CPP) -c EditorPanel.cpp -o win/EditorPanel.o $(CXXFLAGS)

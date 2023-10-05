@@ -1,0 +1,4 @@
+com.citex.android.free.dragonisland.MainActivity
+com.citex.android.free.dragonisland.MainActivity: MainActivity()
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.AdActivity: AdActivity()

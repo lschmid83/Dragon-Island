@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.citex.dragonisland.android.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+

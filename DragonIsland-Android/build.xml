@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See commented blocks below for -->
+<!-- some examples of how to customize the build. -->
+<!-- (If you delete it and reopen the project it will be recreated.) -->
+<project name="DragonIsland" default="default" basedir=".">
+    <description>Builds, tests, and runs the project DragonIsland.</description>
+   
+    <taskdef resource="proguard/ant/task.properties"
+         classpath="C:\Program Files\Java\proguard5.1\lib\proguard.jar" />
+	<proguard configuration="proguard-java.cfg"/>
+
+</project>

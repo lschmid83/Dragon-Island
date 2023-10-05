@@ -1,0 +1,64 @@
+Thank You for playing
+
+Programmer - Lawrence Schmid
+Main Character - Nobody The Dragon
+
+Background Art
+
+Mountains - El Jay
+Down in the dirt - kendi64
+Behemoth in the Desert - SPCaine
+Destroyed Earth - Adam Atomic
+Frozen Mountains - ben2theedge
+Bg for Flying Fortress - Ryan 6666
+Lost City of Atlantis - jaz
+
+Tilesets
+
+SMB.1 Tileset - Bacteriophage 
+NSMB Extra Tiles - GUSS
+
+Sprites
+
+Custom Buzzy Beetle - NICKtendo DS
+Piranha Plant - SonicProject
+Custom Spiny Sheet - Teeks
+Custom Thwomp - Kriven Raven
+NSMB3 Enemies Set 1 - tachin
+
+Fonts
+
+Superhelio - Sven Stuber
+Blackout X - Freaky Fonts
+
+Sound Effects
+
+SFXR Samples - DrPetter
+Tank - Rob Bridgett
+Jump - GRSites
+
+Music
+
+As The Crow Flies - Jim Eshleman 
+Forgotten Journeys - Aaron Walz
+Lets Go - Bjorn Lynne
+
+
+Dev Tools
+
+Java SE 6 JDK
+Netbeans IDE
+MS Paint
+SFXR
+
+Websites
+
+Deviant Art
+Pixel Joint
+Da Font
+MFGG
+
+The End
+
+
+
