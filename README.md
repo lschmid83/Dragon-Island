@@ -4,9 +4,9 @@ Dragon Island is a side scrolling platform game based on Mario Bros. by Nintendo
 
 The history of this project is that it started as a final year project for my Computer Science degree at Kingston University. I first developed a prototype using sprites from the New Super Mario Bros. game for the Nintendo DS. I then went on to build a fully functional game using Java SE which runs as an embedded webpage applet, standalone JAR and then mobile versions for Android, GP2X and the Sony PSP.
 
-The source code is all written in the Java and C++ languages. Below are the instructions on how to setup and run the various projects.
+The source code is all written in the Java and C++ languages. It is not brilliant in some places as I was still studying software development at the time and had limited experience of programming.
 
-If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play.
+If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update.
 
 Some of the new features I would like to add are:
 
@@ -15,9 +15,11 @@ Some of the new features I would like to add are:
 * Improved physics
 * Improved graphics engine and sprite handling
 * More levels and a second world select screen
-* Finding more royalty free artwork
+* Adding more royalty free sprites and backgrounds
 * Different power up items
 * Mini subgames
+
+Below are the instructions on how to setup and run the various projects.
 
 Importing an Eclipse Project
 ============================
