@@ -6,7 +6,7 @@ The history of this project is that it started as a final year project for my Co
 
 The source code is all written in the Java and C++ languages. It is not brilliant in some places as I was still studying software development at the time and had limited experience of programming.
 
-If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update.
+If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update. It is available [here](https://play.google.com/store/apps/details?id=com.citex.android.free.dragonisland&hl=en&pli=1).
 
 Some of the new features I would like to add are:
 
@@ -16,8 +16,9 @@ Some of the new features I would like to add are:
 * Improved graphics engine and sprite handling
 * More levels and a second world select screen
 * Adding more royalty free sprites and backgrounds
-* Different power up items
-* Mini subgames
+* Different power up items and in-app purchases
+* Mini subgames and secret areas
+* Fixing keyboard controls on Apple Mac computers
 
 Below are the instructions on how to setup and run the various projects.
 
