@@ -1,6 +1,6 @@
 # Dragon Island
 
-Dragon Island is a side scrolling platform game based on Mario Bros. by Nintendo. The objective of this project was to create an exciting action game which is enjoyable to play. The players aim is to try and set a high score by getting to the end of each level before the time runs out while avoiding or destroying enemies and collecting power-ups.
+Dragon Island is a side scrolling platform game based on Super Mario World by Nintendo. The objective of this project was to create an exciting action game which is enjoyable to play. The players aim is to try and set a high score by getting to the end of each level before the time runs out while avoiding or destroying enemies and collecting power-ups.
 
 The history of this project is that it started as a final year project for my Computer Science degree at Kingston University. I first developed a prototype using sprites from the New Super Mario Bros. game for the Nintendo DS. I then went on to build a fully functional game using Java SE which runs as an embedded webpage applet, standalone JAR and then mobile versions for Android, GP2X and the Sony PSP.
 
