@@ -22,10 +22,10 @@ Some of the new features I would like to add are:
 
 The keyboard controls for the Java version of the game are as follows:
 
-Arrow keys = Move player
-Ctrl / Q = Run / Fireball
-Space / W = Jump
-Enter = Select Menu Item / Pause
+Arrow keys = Move player  
+Ctrl / Q = Run / Fireball  
+Space / W = Jump  
+Enter = Select Menu Item / Pause  
 
 Below are the instructions on how to setup and run the various projects.
 
