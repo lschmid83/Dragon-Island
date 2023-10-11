@@ -6,7 +6,7 @@ The history of this project is that it started as a final year project for my Co
 
 The source code is all written in the Java and C++ languages. It is not brilliant in some places as I was still studying software development at the time and had limited experience of programming.
 
-If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update. It is available [here](https://play.google.com/store/apps/details?id=com.citex.android.free.dragonisland&hl=en&pli=1).
+If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update. It is available on the app store [here](https://play.google.com/store/apps/details?id=com.citex.android.free.dragonisland&hl=en&pli=1).
 
 Some of the new features I would like to add are:
 
