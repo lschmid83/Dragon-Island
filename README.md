@@ -20,6 +20,13 @@ Some of the new features I would like to add are:
 * Mini subgames and secret areas
 * Fixing keyboard controls on Apple Mac computers
 
+The keyboard controls for the Java version of the game are as follows:
+
+Arrow keys = Move player
+Ctrl / Q = Run / Fireball
+Space / W = Jump
+Enter = Select Menu Item / Pause
+
 Below are the instructions on how to setup and run the various projects.
 
 Importing an Eclipse Project
@@ -57,6 +64,7 @@ The DragonIsland-Java project includes an editor to create new levels.
 1. From the main game menu select Editor
 2. Select Load Level -> Main Game and Level 1.1.1 to open an example level map
 3. The editor includes instructions on how to edit or create a level
+4. Press the enter key and select options to edit level settings such as background, tileset and dimensions
 
 Compiling the Android Mobile Version
 ====================================
