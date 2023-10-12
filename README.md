@@ -20,12 +20,14 @@ Some of the new features I would like to add are:
 * Mini subgames and secret areas
 * Fixing keyboard controls on Apple Mac computers
 
-The keyboard controls for the Java version of the game are as follows:
+The keyboard controls for the Java SE version of the game in the release are as follows:
 
 Arrow keys = Move player  
 Ctrl / Q = Run or Fireball  
 Space / W = Jump  
-Enter = Select Menu Item or Pause  
+Enter = Select Menu Item or Pause
+
+There is also a debug menu which can be accessed from the Title Screen -> Settings -> Debug. This can be used to enable cheat settings to control various aspects of the game and display collision rectangles and game debug information.
 
 Below are the instructions on how to setup and run the various projects.
 
