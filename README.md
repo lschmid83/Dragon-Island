@@ -1,10 +1,10 @@
 # Dragon Island
 
-Dragon Island is a side scrolling platform game based on Super Mario World by Nintendo. The objective of this project was to create an exciting action game which is enjoyable to play. The players aim is to try and set a high score by getting to the end of each level before the time runs out while avoiding or destroying enemies and collecting power-ups.
+Dragon Island is a side scrolling platform game based on Super Mario World by Nintendo. The objective of this project is to create an exciting action game which is enjoyable to play. The players aim is to try and set a high score by getting to the end of each level before the time runs out while avoiding or destroying enemies and collecting power-ups.
 
 The history of this project is that it started as a final year project for my Computer Science degree at Kingston University. I first developed a prototype using sprites from the New Super Mario Bros. game for the Nintendo DS. I then went on to build a fully functional game using Java SE which runs as an embedded webpage applet, standalone JAR and then mobile versions for Android, GP2X and the Sony PSP.
 
-The source code is all written in the Java and C++ languages. It is not brilliant in some places as I was still studying software development at the time and had limited experience of programming.
+The source code is all written in the Java and C++ languages. 
 
 If anyone is interested in continuing work on this open source game then I will be happy to merge the changes and republish to Google Play as an update. It is available on the app store [here](https://play.google.com/store/apps/details?id=com.citex.android.free.dragonisland&hl=en&pli=1).
 
@@ -27,7 +27,7 @@ Ctrl / Q = Run or Fireball
 Space / W = Jump  
 Enter = Select Menu Item or Pause
 
-There is also a debug menu which can be accessed from the Title Screen -> Settings -> Debug. This can be used to enable cheat settings to control various aspects of the game and display collision rectangles and game debug information.
+There is also a debug menu which can be accessed from the Title Screen -> Settings -> Debug. This can be used to enable cheat settings to control various aspects of the game and display collision rectangles and debug information.
 
 Below are the instructions on how to setup and run the various projects.
 
