@@ -76,8 +76,9 @@ The Android version of the project is more difficult to setup. You will need to 
 1. Run exclipse.exe as an Administrator
 1. Open Window -> Android SDK Manager
 2. Make sure to uncheck any existing API libraries
-3. Check the option next to the Android 4.2.2 (API 17) SDK
-4. Click Install packages...
+3. Check the option next to the Android 4.2.2 (API 17) SDK and expand the node to see packages
+4. Deselect all System Images except for ARM EABI v7a System Image
+5. Click Install packages...
 
 Import the project DragonIsland-Android using the same instructions above.
 
