@@ -25,10 +25,6 @@ import com.citex.dragonisland.android.event.GLSurfaceViewEvent;
 import com.citex.dragonisland.core.game.GameMode;
 import com.citex.dragonisland.core.game.Settings;
 
-import com.google.ads.AdSize;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.AdRequest;
-
 /**
  * This class is the main activity context.
  * @author Lawrence Schmid
