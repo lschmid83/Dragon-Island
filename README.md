@@ -68,8 +68,8 @@ The DragonIsland-Java project includes an editor to create new levels.
 3. The editor includes instructions on how to edit or create a level
 4. Press the enter key and select options to edit level settings such as background, tileset and dimensions
 
-Compiling the Android Mobile Version
-====================================
+Compiling the Eclipse Android Mobile Version
+============================================
 
 The Android version of the project is more difficult to setup. You will need to download the Android SDK. Follow the instructions below:
 
