@@ -42,7 +42,7 @@ The following Java projects were built using Eclipse.
 
 Download the required software here:
 
-[Java SE Development Kit 7](https://drive.google.com/file/d/1L7PlaI6XfkSZJcNKb5k9lY2wc_Ir4g5J/view?usp=sharing)
+[Java SE Development Kit 8](https://drive.google.com/file/d/1V_ev8PK-3MofeY2Rk7cX-4J8815zqGsZ/view?usp=drive_link)
 
 [Eclipse Juno ADT Bundle](https://drive.google.com/file/d/1UYRXzRgVR7R7XbJyDK7sxaEAi6Wh_Hmn/view?usp=sharing)
 
