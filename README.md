@@ -143,7 +143,7 @@ make kxploit
 Acknowledgements
 ================
 
-I have to mention a special thanks to my university lecturers who oversaw the project and helped teach me Java and C++. For the PSP build I have to mention the [PSPDEV](https://forums.ps2dev.org/) team who built the unofficial toolchain and Brunni for the [OSLib graphics library](http://www.mobile-dev.ch/old.php?page=pspsoft_oslib). An extra special thanks goes out to the artist [No-Body-The-Dragon](https://www.deviantart.com/no-body-the-dragon) who provided many of the graphics for the game.
+I have to mention a special thanks to my Kingston university lecturers who oversaw the project and helped teach me Java and C++. For the PSP build I have to mention the [PSPDEV](https://forums.ps2dev.org/) team who built the unofficial toolchain and Brunni for the [OSLib graphics library](http://www.mobile-dev.ch/old.php?page=pspsoft_oslib). An extra special thanks goes out to the artist [No-Body-The-Dragon](https://www.deviantart.com/no-body-the-dragon) who provided many of the graphics for the game.
 
 
 
