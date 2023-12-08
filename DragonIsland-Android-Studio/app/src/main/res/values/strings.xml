@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Dragon Island</string>
+    <string name="quit_title">Exit</string>
+    <string name="quit_message">Are you sure you want to quit the game?</string>
+    <string name="quit_yes">Exit</string>
+    <string name="quit_no">Keep Playing</string>
+</resources>

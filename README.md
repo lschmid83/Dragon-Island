@@ -31,6 +31,39 @@ There is also a debug menu which can be accessed from the Title Screen -> Settin
 
 Below are the instructions on how to setup and run the various projects.
 
+Importing an Android Studio Project
+===================================
+
+The DragonIsland-Android-Studio project is the most up to date mobile version of the game using Android SDK API Level 24 which has been published to Google Play.
+
+Download the required software here:
+
+[Android Studio](https://drive.google.com/file/d/1ZwvjCGVGCP0qfyri5DHjviEQRVc_IOu1/view?usp=drive_link)
+
+1. Install Android Studio
+2. Open the DragonIsland-Android-Studio project
+3. Select Tools -> SDK Manager -> SDK Platforms tab and ensure Android API 34 is installed
+4. Select Tools -> SDK Manager -> SDK Tools tab and ensure Android SDK Build-Tools 34 is installed
+5. If there are still build errors try selecting File -> Invalidate Caches...
+
+If you get an error stating SDK Location not found this is because the local.properties file is not found as it should not be checked into version control and should be generated automatically by Android Studio. If this happens create a new text file in the root of the project folder called local.properties and add the following specifying the location of your Android SDK folder:
+
+```
+sdk.dir=C\:\\Users\\User\\AppData\\Local\\Android\\Sdk
+```
+
+You should now be able to press the run button and launch the application on a connected device.
+
+If you want to test the application using a virtual device:
+
+1. Select Tools -> Device Manager
+2. Click Create Device
+3. Choose a device. I recommend Nexus S
+4. Download a system image 
+5. Give the device a name and click Finish
+
+You should now be able to press the run button and launch the application on a AVD.
+
 Importing an Eclipse Project
 ============================
 
