@@ -34,7 +34,7 @@ Below are the instructions on how to setup and run the various projects.
 Importing an Android Studio Project
 ===================================
 
-The DragonIsland-Android-Studio project is the most up to date mobile version of the game using Android SDK API Level 24 which has been published to Google Play.
+The DragonIsland-Android-Studio project is the most up to date version of the game which has been published to Google Play.
 
 Download the required software here:
 
