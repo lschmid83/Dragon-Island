@@ -127,7 +127,6 @@ public class MainActivity extends Activity {
 
         // Create an ad request and get test ads on a physical device.
         AdRequest adRequest = new AdRequest.Builder()
-                //.addTestDevice("CC9DW7W7R4H0NM3LT9OLOF7455F8800D")
                 .build();
 
         // Start loading the ad in the background.
@@ -147,7 +146,7 @@ public class MainActivity extends Activity {
 
         // Add the AdMob panel.
         RelativeLayout rl = new RelativeLayout(mActivity);
-        LayoutParams params = new LayoutParams(width, (int)(height - 30));
+        LayoutParams params = new LayoutParams(width + 90, (int)(height - 30));
         mActivity.addContentView(rl, params);
 
         mAdView.setEnabled(true);

@@ -10,7 +10,7 @@ android {
         applicationId = "com.citex.android.free.dragonisland"
         minSdk = 24
         targetSdk = 34
-        versionCode = 25
+        versionCode = 26
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

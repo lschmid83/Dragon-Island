@@ -113,7 +113,7 @@ public class Control extends Timing {
 			
 			// Button 1.
 			x1 = 414;
-			x2 = 467;
+			x2 = 480;
 			y1 = 186;
 			y2 = 255;
 			if (x >= x1 && x <= x2 && y > y1 && y <= y2) {
@@ -178,7 +178,7 @@ public class Control extends Timing {
 			
 			// Button 1.
 			x1 = 334;
-			x2 = 387;
+			x2 = 400;
 			y1 = 166;
 			y2 = 226;
 			if (x >= x1 && x <= x2 && y > y1 && y <= y2) {
