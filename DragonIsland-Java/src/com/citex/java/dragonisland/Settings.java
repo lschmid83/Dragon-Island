@@ -36,7 +36,7 @@ public class Settings {
     /** Enable sound effects */
     public static boolean Sound = true;
     /** Enable the debug menu */
-    public static boolean DebugMenu = false;
+    public static boolean DebugMenu = true;
     /** Enable level select */
     public static boolean LevelSelect = false;
     /** Enable player invincibility */
