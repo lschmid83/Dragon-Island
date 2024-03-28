@@ -35,7 +35,6 @@ Here are some screenshots of the game running:
 <img align='left' src='https://drive.google.com/uc?id=1R-pvnl9ryYbToIXVWkxg3C_APrqVu_O4' width='240'>
 <img align='left' src='https://drive.google.com/uc?id=1MXaTQzE4dqm6QVtD8DLHkfooBULDpghJ' width='240'><br/><br/><br/><br/><br/><br/><br/>
 
-Below are the instructions on how to setup and run the various projects.
 
 Importing an Android Studio Project
 ===================================
