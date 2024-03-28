@@ -15,6 +15,7 @@ Some of the new features I would like to add are:
 * Improved physics
 * Improved graphics engine and sprite handling
 * More levels and a second world select screen
+* Level editor working on mobile devices
 * Adding more royalty free sprites and backgrounds
 * Different power up items and in-app purchases
 * Mini subgames and secret areas
@@ -28,6 +29,11 @@ Space / W = Jump
 Enter = Select Menu Item or Pause
 
 There is also a debug menu which can be accessed from the Title Screen -> Settings -> Debug. This can be used to enable cheat settings to control various aspects of the game and display collision rectangles and debug information.
+
+Here are some screenshots of the game running:
+
+<img src='https://drive.google.com/file/d/1R-pvnl9ryYbToIXVWkxg3C_APrqVu_O4/view?usp=sharing' width='240'>
+<img src='https://drive.google.com/file/d/1MXaTQzE4dqm6QVtD8DLHkfooBULDpghJ/view?usp=sharing' width='240' style='float: left'>
 
 Below are the instructions on how to setup and run the various projects.
 
