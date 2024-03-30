@@ -182,7 +182,7 @@ make kxploit
 
 Here is a picture of the game with the level editor running on the PSP hardware:
 
-<img src='https://drive.google.com/uc?id=1xY8S0BSzPOJ0HZRpc_KMk0YLrrkY9HZk' width='240'>
+<img src='https://drive.google.com/uc?id=1d2edbIondOTISLRk-Dj7o0HHxznY4EJ2' width='240'>
 
 Acknowledgements
 ================
