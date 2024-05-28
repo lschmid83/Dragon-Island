@@ -21,6 +21,8 @@ Some of the new features I would like to add are:
 * Mini subgames and secret areas
 * Fixing keyboard controls on Apple Mac computers
 
+Please see the issue list for detailed descriptions.
+
 The keyboard controls for the Java SE version of the game in the release are as follows:
 
 Arrow keys = Move player  
