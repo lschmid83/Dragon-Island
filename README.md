@@ -38,6 +38,8 @@ Here are some screenshots of the game running:
 <img align='left' src='https://drive.google.com/uc?id=1LVtTDipxDAsy5DUnaug9d6nTubYN06fS' width='240'>
 <img src='https://drive.google.com/uc?id=139Pl_tnYm1KaIxSgn6h0yS9xl5xcFmYQ' width='240'>
 
+You can view a demo video of the game [here](https://www.youtube.com/watch?v=bkRfQjbjPHs).
+
 Below are the instructions on how to setup and run the various projects.
 
 Importing an Android Studio Project
